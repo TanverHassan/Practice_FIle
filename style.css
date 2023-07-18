@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+.full-website{
+    width: 1024px;
+    margin: auto;
+}
+
+.menu{
+    text-align: center;
+    background-color: #9b59b6;
+    padding: 15px;
+}
+.benner{
+    width: 1024px;
+}
+.content{
+    background-color: #3498db;
+    padding: 50px;
+}
+.content h3{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.foter{
+    text-align: center;
+    background-color: #2ecc71;
+    padding: 25px;
+}
+.foter-botom{
+    text-align: center;
+    background-color: #23834b;
+    padding: 15px;
+}
+img{
+    max-width: 100%;
+    margin-bottom: -5px;
+} 
